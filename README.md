@@ -1,16 +1,1 @@
-# temascontroller
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+IOS ve Android' de denenmiştir. ESP32 mikrodenetleyicisi Server olarak yapılandırılıp Mobil uygulama istemci olarak kart ile veri alış-verişi yapmaktadır. ESP32'nin kodu Cpp ile yazılmıştır. ESP32'nin kodu paylaşılmamıştır. Mobil uygulamanın da tüm dosyaları paylaşılmamıştır. Sadece örnek olması için yayın yapılmıştır.
