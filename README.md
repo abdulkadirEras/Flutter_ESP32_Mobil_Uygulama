@@ -6,3 +6,7 @@ IOS ve Android' de denenmiştir. ESP32 mikrodenetleyicisi Server olarak yapılan
 The system was tested on **iOS and Android** platforms. The **ESP32** microcontroller is configured as a **Server**, facilitating data exchange with the Mobile Application acting as the **Client**. The ESP32 code was written in **C++**.
 
 Please note that neither the full ESP32 code nor all mobile application files have been shared; the materials are published for **demonstration purposes** only.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="292" height="642" alt="image" src="https://github.com/user-attachments/assets/d65eedde-ec08-4485-8788-d1e9fd28154d" />
