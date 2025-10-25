@@ -12,4 +12,9 @@ Please note that neither the full ESP32 code nor all mobile application files ha
 <img width="292" height="642" alt="image" src="https://github.com/user-attachments/assets/d65eedde-ec08-4485-8788-d1e9fd28154d" />        <img width="292" height="642" alt="image" src="https://github.com/user-attachments/assets/71cd8abf-27ab-4517-a2fd-2f4e39422559" />
 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<img width="875" height="417" alt="image" src="https://github.com/user-attachments/assets/66a4dc73-0697-428e-b80b-ef93e89daacd" />
+
+
 
